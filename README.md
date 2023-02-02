@@ -1,2 +1,2 @@
 # rockpaperscissors
-![](https://komarev.com/ghpvc/?username=XIXCodeXIX)
+![](https://komarev.com/ghpvc/?username=XIXCodeXIX&color=green)
